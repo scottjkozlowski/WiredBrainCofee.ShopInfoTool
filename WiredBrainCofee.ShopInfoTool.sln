@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiredBrainCofee.ShopInfoTool", "WiredBrainCofee.ShopInfoTool.csproj", "{E92F36F9-897D-495C-ACCE-F41CACE951BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E92F36F9-897D-495C-ACCE-F41CACE951BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E92F36F9-897D-495C-ACCE-F41CACE951BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E92F36F9-897D-495C-ACCE-F41CACE951BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E92F36F9-897D-495C-ACCE-F41CACE951BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44C9A2E3-A67A-4F81-A0D9-72CC4A96D358}
+	EndGlobalSection
+EndGlobal
